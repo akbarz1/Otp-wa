@@ -31,8 +31,8 @@ LOGIN_URL = "https://www.ivasms.com/login"
 BASE_URL = "https://www.ivasms.com/"
 SMS_API_ENDPOINT = "https://www.ivasms.com/portal/sms/received/getsms"
 
-USERNAME = "dikinoel655@gmail.com"
-PASSWORD = "Alginotdev"
+USERNAME = "sitiimut344@gmail.com"
+PASSWORD = "Alginotdev001"
 
 # Reduced interval to 2 seconds to keep the bot responsive and reduce server load
 POLLING_INTERVAL_SECONDS = 1 
